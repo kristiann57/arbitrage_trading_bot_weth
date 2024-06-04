@@ -1,0 +1,32 @@
+{
+    "uniswapV2": {
+        "factory": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f"
+    },
+    "sushiswapV2": {
+        "factory": "0xC0AEe478e3658e2610c5F7A4A2E1777cE9e4f2Ac"
+    },
+    "shibaswapV2": {
+        "factory": "0x115934131916C8b277DD010Ee02de363c09d037c"
+    },
+    "croswapV2": {
+        "factory": "0x9DEB29c9a4c7A88a3C0257393b7f3335338D9A9D"
+    },
+    "bitberryV2": {
+        "factory": "0x5D8d3bbE66076e844C82B989F8430Fa92Cf67DBA"
+    },
+    "dxswapV2": {
+        "factory": "0xd34971BaB6E5E356fd250715F5dE0492BB070452"
+    },
+    "equalizerV2": {
+        "factory": "0xF14421F0BCf9401d8930872C2d44d8e67e40529a"
+    },
+    "pancakeswapV2": {
+        "factory": "0x1097053Fd2ea711dad45caCcc45EfF7548fCB362"
+    },
+    "fraxswapV2": {
+        "factory": "0x43eC799eAdd63848443E2347C49f5f52e8Fe0F6f"
+    },
+    "apeswapV2": {
+        "factory": "0xBAe5dc9B19004883d0377419FeF3c2C8832d7d7B"
+    }
+}
